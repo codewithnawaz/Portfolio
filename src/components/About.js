@@ -102,7 +102,7 @@ const skillData = [
                 image: "./css.png",
             },
             {
-                image: "./Javascript.png",
+                image: "./javaScript.png",
             },
             {
                 image: "./mongo.png",
